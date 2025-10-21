@@ -1,0 +1,60 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Glamdring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Anduril",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Orcrist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sting",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Hadhafang",1,0,0,0,0,0,0,0
+
+
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Glamdring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Anduril",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Orcrist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sting",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_Glamdring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Anduril",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Orcrist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sting",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Glamdring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Anduril",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Orcrist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sting",1,0,0,0,0,0,0,0
+
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Glamdring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Anduril",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Orcrist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sting",1,0,0,0,0,0,0,0

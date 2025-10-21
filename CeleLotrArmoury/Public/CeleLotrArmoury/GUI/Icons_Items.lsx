@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/CeleLotrArmouryIcons.dds"/>
+                    <attribute id="UUID" type="FixedString" value="42cf2733-db87-40da-82c2-dccf52ae6986"/> Icon Atlas UUID gen 280824
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int64" value="2048"/>
+                    <attribute id="Width" type="int64" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleGlamdring_Icon"/> 
+                    <attribute id="U1" type="float" value="0.0"/> Left side
+                    <attribute id="U2" type="float" value="0.03125"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleAnduril_Icon"/> 
+                    <attribute id="U1" type="float" value="0.03125"/> Left side
+                    <attribute id="U2" type="float" value="0.0625"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleOrcrist_Icon"/> 
+                    <attribute id="U1" type="float" value="0.0625"/> Left side
+                    <attribute id="U2" type="float" value="0.09375"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleSting_Icon"/> 
+                    <attribute id="U1" type="float" value="0.09375"/> Left side
+                    <attribute id="U2" type="float" value="0.125"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleHadhafang_Icon"/> 
+                    <attribute id="U1" type="float" value="0.125"/> Left side
+                    <attribute id="U2" type="float" value="0.15625"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CeleMoriaStaff_Icon"/> 
+                    <attribute id="U1" type="float" value="0.15625"/> Left side
+                    <attribute id="U2" type="float" value="0.1875"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom side
+                </node>
+                
+			</children>
+        </node>
+    </region>
+</save>
